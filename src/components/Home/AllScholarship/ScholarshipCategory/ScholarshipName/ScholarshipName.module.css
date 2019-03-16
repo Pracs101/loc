@@ -1,0 +1,9 @@
+.scholarshipSubDiv {
+    display: flex;
+    margin: 10px;
+    padding-left: 5%;
+}
+
+.scholarshipsName {
+    cursor: pointer;
+}

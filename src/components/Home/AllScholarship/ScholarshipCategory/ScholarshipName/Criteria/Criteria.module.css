@@ -1,0 +1,29 @@
+.mainDiv {
+    margin: auto;
+    padding: 2%;
+}
+
+.heading {
+    color: #dc650c;
+}
+
+.scheme {
+    font-size: 1.5em;
+    border-bottom: 1px solid #B9B9B9;
+}
+
+.super {
+    border-bottom: 1px solid #B9B9B9;
+    margin-bottom: 1%;
+}
+
+.Tag {
+    font-size: 1.3em;
+    font-weight: bold;
+    margin-bottom: 0.5%;
+    color: #0288d1;
+}
+
+.content {
+    font-size: 1.0em;
+}

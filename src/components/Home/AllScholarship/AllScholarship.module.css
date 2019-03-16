@@ -1,0 +1,22 @@
+.mainDiv {
+    margin: auto;
+    padding: 0% 2% 0%;
+}
+
+.subDiv {
+    border: 1px solid #000000;
+}
+
+.Title {
+    display: flex;
+    border-bottom: 1px solid #000000;
+    color: #d66a1a;
+}
+
+.Symbol {
+    margin: 10px;
+}
+
+.Noticetag {
+    margin: 10px;
+}

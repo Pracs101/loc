@@ -1,0 +1,26 @@
+.mainDiv {
+    margin: auto;
+    padding: 2%;
+}
+
+.subDiv {
+    border: 1px solid #000000;
+}
+
+.NoticeTitle {
+    display: flex;
+    border-bottom: 1px solid #000000;
+}
+
+.Symbol {
+    margin: 10px;
+}
+
+.Noticetag {
+    margin: 10px;
+}
+
+.NoticeBody {
+    color: red;
+    margin: 1%;
+}

@@ -1,0 +1,26 @@
+.mainDiv {
+    margin: auto;
+}
+
+.subDiv {
+    border-bottom: 1px solid #000000;
+}
+
+.Title {
+    display: flex;
+}
+
+.Symbol {
+    margin: 10px;
+}
+
+.Tag {
+    margin: 10px;
+    cursor: pointer;
+}
+
+.arrow {
+    margin: 10px;
+    float: right;
+    right: 0;
+}
